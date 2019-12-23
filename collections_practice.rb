@@ -45,4 +45,3 @@ def find_a(array)
   ["apple", "avis", "arlo", "ascot"]
 end 
 
-def 
