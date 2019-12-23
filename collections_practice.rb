@@ -21,7 +21,8 @@ end
 def swap_elements(array)
    array.each_with_index do |array, i|
      if array.index = [0,1,2] 
-       array[1,2].reverse
+       array.destination_with_index
+       puts array[]
 end 
 end 
       
