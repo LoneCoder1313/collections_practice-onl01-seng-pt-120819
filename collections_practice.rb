@@ -22,7 +22,7 @@ def swap_elements(array)
        array_destination_index do 
          swap_elements(["blake", "ashley", "scott"],1,2)
 end 
-   array=["blake", "ashley", "scott"]
+   array=["blake", "ashley"]
 end 
       
 
