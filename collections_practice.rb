@@ -12,7 +12,7 @@ end
 sort_array_desc([25, 7, 14]) 
 
 def sort_array_char_count(array)
-  array.sort_with_each do |array|
+  array.sort do |array|
     array <=> array("cat", "dog", "Horses")
   end
 end 
