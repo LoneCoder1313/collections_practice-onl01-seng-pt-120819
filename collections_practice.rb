@@ -20,11 +20,7 @@ end
 
 def swap_elements(array)
    array.each_with_index do |array, i|
-    if i <= array.length 
-      array.last 
-    while array[1] << array.last
-    puts ["blake", "scott", "ashley"]
-  end 
+    if array[1]
 end 
 end 
       
