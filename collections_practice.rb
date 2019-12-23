@@ -15,6 +15,6 @@ def sort_array_char_count(array)
   array.sort do |array|
     array == array
   end
-  array =([])
+  array =(["cat", "dogs", "Horses"])
 end 
 
