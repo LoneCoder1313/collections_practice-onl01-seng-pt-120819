@@ -9,5 +9,8 @@ def sort_array_desc(array)
     right <=> left
   end
 end
-sort_array_desc([25, 7, 14]) #[25, 14, 7]
+sort_array_desc([25, 7, 14]) 
+
+def sort_array_char_count(array)
+  array.
 
