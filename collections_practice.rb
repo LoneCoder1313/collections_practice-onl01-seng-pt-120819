@@ -20,5 +20,6 @@ end
 
 def swap_elements(array)
   array.swap do |array, i|
-    if i <
+    if i <= array.length 
+      
 
