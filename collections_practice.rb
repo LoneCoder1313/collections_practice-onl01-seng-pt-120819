@@ -20,7 +20,7 @@ end
 
 def swap_elements(array)
      if array_destination_index do 
-         array[1], array[2] <=> array[2], array[1]
+         array[1], array[2] == array[2], array[1]
 end 
   end 
      array=["blake",  "scott", "ashley"]
