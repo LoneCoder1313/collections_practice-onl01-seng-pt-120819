@@ -18,3 +18,5 @@ def sort_array_char_count(array)
   array =(["cat", "dogs", "Horses"])
 end 
 
+def swap_elements
+
