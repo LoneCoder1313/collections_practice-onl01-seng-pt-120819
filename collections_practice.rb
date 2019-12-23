@@ -20,7 +20,9 @@ end
 
 def swap_elements(array)
    array.each_with_index do |array, i|
-    if array[1]
+     if array.index = [0,1,2] 
+       array[1,2].reverse
+       puts array = []
 end 
 end 
       
