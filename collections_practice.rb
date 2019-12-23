@@ -20,7 +20,7 @@ end
 
 def swap_elements(array)
        array_destination_index do 
-         swap_elements(["blake", "ashley", "scott"],1,2)
+         array["blake", "ashley", "scott"],1,2).to array[]
 end 
   end 
      array=["blake",  "scott", "ashley"]
