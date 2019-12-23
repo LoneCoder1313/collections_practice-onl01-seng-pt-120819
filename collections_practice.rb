@@ -25,4 +25,8 @@ end
    array=["blake",  "scott", "ashley"]
 end 
       
+def reverse_array(array)
+  array.reverse
+end
 
+reverse_array(["blake", "ashley", "scott"])
