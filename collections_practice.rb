@@ -22,8 +22,9 @@ def swap_elements(array)
        array_destination_index do 
          swap_elements(["blake", "ashley", "scott"],1,2)
 end 
-   array=["blake",  "scott", "ashley"]
-end 
+  end 
+     array=["blake",  "scott", "ashley"]
+
       
 def reverse_array(array)
   array.reverse
