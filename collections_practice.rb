@@ -21,8 +21,8 @@ end
 def swap_elements(array)
    array.each_with_index do |array, i|
      if array.index = [0,1,2] 
-       array.destination_with_index
-       puts array[1].last 
+       array.destination_index
+      ([0,1,,2],1,2)
 end 
  array=["blake", "scott", "ashley"]
 end 
